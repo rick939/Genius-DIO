@@ -1,2 +1,5 @@
-# Genius-DIO
-Jogo criado com o Html , Css e Js
+# Genius-DIO :video_game:
+Jogo criado com:  
+  - Html  
+  - Css  
+  - Js
